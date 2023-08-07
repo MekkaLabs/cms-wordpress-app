@@ -25,12 +25,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              Este site puxa os dados da cannamed{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`noticias.cannamed.com.br`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+                Acesse
               </a>
               .
             </>
