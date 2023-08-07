@@ -1,5 +1,5 @@
 import { CMS_NAME, CMS_URL } from '../lib/constants'
-import Imagem from 'next/image'
+import Image from 'next/image'
 
 export default function Intro() {
   return (
